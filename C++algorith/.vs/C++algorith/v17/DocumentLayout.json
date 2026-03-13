@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\82109\\Desktop\\\uBC31\uC900 \uD480\uC774\\C\u002B\u002Balgorith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D38F3D-01A2-4C3C-A8EF-59919A654F74}|C\u002B\u002Balgorith.vcxproj|C:\\Users\\82109\\Desktop\\\uBC31\uC900 \uD480\uC774\\C\u002B\u002Balgorith\\func4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51D38F3D-01A2-4C3C-A8EF-59919A654F74}|C\u002B\u002Balgorith.vcxproj|solutionrelative:func4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "func4.cpp",
+              "DocumentMoniker": "C:\\Users\\82109\\Desktop\\\uBC31\uC900 \uD480\uC774\\C\u002B\u002Balgorith\\func4.cpp",
+              "RelativeDocumentMoniker": "func4.cpp",
+              "ToolTip": "C:\\Users\\82109\\Desktop\\\uBC31\uC900 \uD480\uC774\\C\u002B\u002Balgorith\\func4.cpp",
+              "RelativeToolTip": "func4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-12T14:21:04.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
