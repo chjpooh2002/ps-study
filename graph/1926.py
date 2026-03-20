@@ -42,4 +42,4 @@ for n in range(N):
             max_size.append(bfs(n,m))
         
 print(count)
-print(max(max_size))
+print(max(max_size) if max_size else 0)
